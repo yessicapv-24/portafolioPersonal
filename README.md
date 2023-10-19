@@ -10,23 +10,21 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Home](https://github.com/yessicapv-24/portafolioPersonal/blob/main/imagenes/home.png)
 
-Experiencia:
+Acerca de mi:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](https://github.com/yessicapv-24/portafolioPersonal/blob/main/imagenes/acercademi.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
+![Proyectos](https://github.com/yessicapv-24/portafolioPersonal/blob/main/imagenes/proyectos.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](https://github.com/yessicapv-24/portafolioPersonal/blob/main/imagenes/contacto.png)
+
+
 
 ## Tecnologías
 
